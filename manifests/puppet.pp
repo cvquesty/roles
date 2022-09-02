@@ -5,6 +5,5 @@ class roles::puppet {
   include profiles::puppetweb
   include profiles::puppet_settings
   include profiles::puppet_operational_dashboards
-  include profiles::grafanadash
 
 }
