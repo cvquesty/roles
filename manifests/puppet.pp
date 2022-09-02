@@ -2,6 +2,5 @@
 class roles::puppet {
 
   include profiles::base
-  include profiles::puppetboard
 
 }
