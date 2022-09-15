@@ -2,5 +2,6 @@
 class roles::server {
 
   include profiles::base
+  include profiles::apache
 
 }
