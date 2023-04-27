@@ -2,6 +2,6 @@
 class roles::frontier {
 
   include profiles::base
-  include profiles::activeper
+  include profiles::activeperl
 
 }
